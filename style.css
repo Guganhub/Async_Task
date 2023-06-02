@@ -1,0 +1,22 @@
+
+body{
+    background-color: #dae1ed;
+}
+.card {
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #73767a;
+
+  color: white;
+}
+
+.card h5{
+    text-align: center;
+    
+    background-color: black;
+    color: white;
+}
+.card p{
+    margin-top: 10px;
+}
+
